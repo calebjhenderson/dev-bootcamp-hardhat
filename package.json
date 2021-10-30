@@ -20,7 +20,8 @@
     "ethereum-waffle": "^3.2.1",
     "ethers": "^5.0.24",
     "hardhat": "^2.6.4",
-    "hardhat-deploy": "^0.7.0-beta.39"
+    "hardhat-deploy": "^0.7.0-beta.39",
+    "solidity-coverage": "^0.7.17"
   },
   "dependencies": {
     "@appliedblockchain/chainlink-contracts": "0.0.4",
